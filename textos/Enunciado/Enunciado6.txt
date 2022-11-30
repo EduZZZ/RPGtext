@@ -1,0 +1,1 @@
+7) Sua resposta deve ser um polinômio na forma padrão(x^2+4)(x^2−6)

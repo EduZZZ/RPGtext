@@ -1,0 +1,3 @@
+Perfeito, agora que a base esta pronta, devemos nos concentrar em criar os vetores 
+necessarios para a configuração do codigo que desvendara a criptografia da Enigma, que
+foram encontrados parcialmente por Alan Turing, basta terminar o que ele já começou:

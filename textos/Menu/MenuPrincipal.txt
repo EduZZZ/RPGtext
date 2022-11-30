@@ -1,0 +1,5 @@
+Bem-vindo ao Menu Principal!
+1 - Jogar
+2 - Placar de Lideres
+3 - Sair
+Selecione uma opção digitando por seu número equivalente:
